@@ -11,7 +11,6 @@ Demo Video: https://youtu.be/pya-3iOdtyw
 
 ## Installation
 
-1. Run `git clone https://github.com/anubhav06/sarg-assignment.git` to clone the repo
-2. Run `cd sarg-assignment` to go in the correct directory
-3. Run `npm install` to install the dependencies
-4. Run `npm start` to start the server
+1. Run `cd sarg-translate` to go in the correct directory
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the server
